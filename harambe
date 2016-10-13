@@ -10,9 +10,10 @@
 		</style>
 	</head>
 	
-		<body>
-		<h1>Hello world. This is the body.<img src="harambe.jpg"> This is my first webpage<b>fgtdhjtdjugjtuidgfyg98g98g98g98g98g98g98g98g98g98g98g98g98g98g98g98g98g98g98g98g98g98g98g98g98g98g98hetfg90gi
-		</body>
+	<body>
+		<h1>Hello world. This is the body. This is my first webpage<b> </b> </h1>
+		<img src="harambe.jpg">
 		<a href = <"http://www.d120.org">MHS Website</a>
 		<a href = <"second.html">Second Page</a>
+	</body>
 </html>
